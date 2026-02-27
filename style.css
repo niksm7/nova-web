@@ -65,10 +65,6 @@ body {
     border-radius: 4px;
     cursor: pointer;
     margin-top: 10px;
-    
-    /* THE BUG: This pushes the button completely off the screen */
-    position: absolute;
-    left: -9999px;
 }
 
 .btn-submit:hover {
